@@ -13,6 +13,8 @@ a:link {
   color: black;
 }
 
+/* comment */
+
 a:hover {
   text-decoration: underline;
   font-style: bold;
@@ -59,16 +61,6 @@ a:hover {
   height: 36px;
 }
 
-
-
-/* #navbar ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 60px;
-  disp
-}
-*/
 #navbar {
   text-align: right;
 }
